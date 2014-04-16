@@ -2,13 +2,13 @@
   "categories" : [
     {
       "id" : "0",
-      "categoryTitle" : "Action",
-      "categoryUrl" : "action.json"
+      "categoryTitle" : "Science Fiction",
+      "categoryUrl" : "sciencefiction.json"
     },
     {
       "id" : "1",
-      "categoryTitle" : "Comedy",
-      "categoryUrl" : "comedy.json"
+      "categoryTitle" : "Action Drama",
+      "categoryUrl" : "actiondrama.json"
     },
     {
       "id" : "2",
