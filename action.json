@@ -2,8 +2,8 @@
   "movies" : [
     {
       "movieId" : "slashnet1",
-      "posterUrl" : "http://www.sojodigital.com/slashnetApi/assets/ironman.png",
-      "thumbUrl" : "http://www.sojodigital.com/slashnetApi/assets/capitan_america_art.png",
+      "posterUrl" : "http://cokeapp/poster/gravity.png", 
+      "thumbUrl" : "http://cokeapp/thumbs/gravity.png",
       "runtime" : "138min",
       "synopsis" : "This movie is awesome, it’s awesomely awesome. As awesome as awesome and awesome and awesome and awesome and awesome and awesome and awesome and awesome and awesome and awesome. Times a million.",
       "title" : "Action Movie",
