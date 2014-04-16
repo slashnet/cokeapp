@@ -1,0 +1,31 @@
+{
+  "movies" : [
+    {
+      "movieId" : "slashnet1",
+      "posterUrl" : "http://www.sojodigital.com/slashnetApi/assets/ironman.png",
+      "thumbUrl" : "http://www.sojodigital.com/slashnetApi/assets/capitan_america_art.png",
+      "runtime" : "138min",
+      "synopsis" : "This movie is awesome, it’s awesomely awesome. As awesome as awesome and awesome and awesome and awesome and awesome and awesome and awesome and awesome and awesome and awesome. Times a million.",
+      "title" : "Action Movie",
+      "mediaUrl" : "http://www.sojodigital.com/slashnetApi/assets/ironmantrailer.mp4"
+    },
+{
+      "movieId" : "slashnet2",
+      "posterUrl" : "http://www.someurl.com/largePosterImage.png",
+      "thumbUrl" : "http://www.someurl.com/someThumbnail.png",
+      "runtime" : "138min",
+      "synopsis" : "This movie is awesome. It’s awesomely awesome. Where is the?",
+      "title" : "Action Movie",
+      "mediaUrl" : "http://www.someurl.com/somemovie.mp4"
+    },
+{
+      "movieId" : "slashnet3",
+      "posterUrl" : "http://www.someurl.com/largePosterImage.png",
+      "thumbUrl" : "http://www.someurl.com/someThumbnail.png",
+      "runtime" : "138min",
+      "synopsis" : "This movie is awesome, it’s awesomely awesome.\n Awesome.",
+      "title" : "Action Movie",
+      "mediaUrl" : "http://www.someurl.com/somemovie.mp4"
+    }
+  ]
+}

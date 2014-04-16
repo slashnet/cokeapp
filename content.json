@@ -1,0 +1,24 @@
+{
+  "categories" : [
+    {
+      "id" : "0",
+      "categoryTitle" : "Action",
+      "categoryUrl" : "action.json"
+    },
+    {
+      "id" : "1",
+      "categoryTitle" : "Comedy",
+      "categoryUrl" : "comedy.json"
+    },
+    {
+      "id" : "2",
+      "categoryTitle" : "Drama",
+      "categoryUrl" : "drama.json"
+    },
+    {
+      "id" : "3",
+      "categoryTitle" : "Foreign",
+      "categoryUrl" : "foreign.json"
+    }
+  ]
+}

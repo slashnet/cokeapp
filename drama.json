@@ -1,0 +1,13 @@
+{
+  "movies" : [
+    {
+      "movieId" : "slashnet5",
+      "posterUrl" : "http://www.someurl.com/largePosterImage.png",
+      "thumbUrl" : "http://www.someurl.com/someThumbnail.png",
+      "runtime" : "138min",
+      "synopsis" : "This movie is awesome, it’s awesomely awesome.",
+      "title" : "Awesome Movie\n",
+      "mediaUrl" : "http://www.someurl.com/somemovie.mp4"
+    }
+  ]
+}
