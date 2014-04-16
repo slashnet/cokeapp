@@ -1,0 +1,9 @@
+{
+  "author":      "Chris Jacobs",
+  "description": "Downloader",
+  "icon":        "slash-conf/icon.jpg",
+  "name":        "Coke App",
+  "url":         "cokeapp/",
+  "repo_url":    "slashnet/cokeapp"
+}
+
