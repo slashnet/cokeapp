@@ -5,7 +5,7 @@
       "posterUrl" : "http://cokeapp/poster/gravity.png", 
       "thumbUrl" : "http://cokeapp/thumbs/gravity.png",
       "runtime" : "138min",
-      "synopsis" : "test",
+      "synopsis" : "Dr. Ryan Stone is a brilliant medical engineer on her first shuttle mission, with veteran astronaut Matt Kowalsky. But on a seemingly routine spacewalk, disaster strikes. The shuttle is destroyed, leaving Stone and Kowalsky completely alone.",
       "title" : "Gravity",
       "mediaUrl" : "http://slash_media/cokeapp/gravity.mp4"
     },
@@ -14,7 +14,7 @@
       "posterUrl" : "http://cokeapp/poster/agents.png",
       "thumbUrl" : "http://cokeapp/thumbs/agents.png",
       "runtime" : "42min",
-      "synopsis" : "test",
+      "synopsis" : "Marvels Agents of SHIELD is an American television series created for ABC by Joss Whedon, Jed Whedon, and Maurissa Tancharoen, based on the Marvel Comics organization SHIELD.",
       "title" : "Agents of Shield",
       "mediaUrl" : "http://slash_media/cokeapp/agentsofshield.mp4"
     },
@@ -23,8 +23,8 @@
       "posterUrl" : "http://cokeapp/poster/anchorman2.png",
       "thumbUrl" : "http://cokeapp/thumbs/anchorman2.png",
       "runtime" : "138min",
-      "synopsis" : "test",
-      "title" : "Action Movie",
+      "synopsis" : "The Legend of Ron Bergandy strikes again, and San Diego will be ready.",
+      "title" : "Anchorman 2",
       "mediaUrl" : "http://slash_media/cokeapp/anchorman2.mp4"
     }
   ]
