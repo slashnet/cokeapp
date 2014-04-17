@@ -2,12 +2,12 @@
   "movies" : [
     {
       "movieId" : "slashnet6",
-      "posterUrl" : "http://www.someurl.com/largePosterImage.png",
-      "thumbUrl" : "http://www.someurl.com/someThumbnail.png",
+      "posterUrl" : "http://cokeapp/poster/monsters.png",
+      "thumbUrl" : "http://cokeapp/thumbs/monsters.png",
       "runtime" : "138min",
-      "synopsis" : "This movie is awesome, it’s awesomely awesome.",
-      "title" : "Foreign Movie",
-      "mediaUrl" : "http://www.someurl.com/somemovie.mp4"
+      "synopsis" : "Monsters University is another hit movie from the Pixar team. Funny, intelligent and scary.",
+      "title" : "Monsters University",
+      "mediaUrl" : "http://slash_media/cokeapp/monstersuniversity.mp4"
     }
   ]
 }
