@@ -5,29 +5,27 @@
       "posterUrl" : "http://cokeapp/poster/gravity.png", 
       "thumbUrl" : "http://cokeapp/thumbs/gravity.png",
       "runtime" : "138min",
-      "synopsis" : "Dr. Ryan Stone is a brilliant medical engineer on her first shuttle mission, with veteran astronaut Matt Kowalsky. But on a seemingly routine spacewalk, disaster strikes. The shuttle is destroyed, leaving Stone and Kowalsky completely alone - tethered to nothing but each other and spiraling out into the blackness. The deafening silence tells them they have lost any link to Earth...and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.
-      ",
-      "title" : "Gravity",
+      "synopsis" : "This movie is awesome, it’s awesomely awesome. As awesome as awesome and awesome and awesome and awesome and awesome and awesome and awesome and awesome and awesome and awesome. Times a million.",
+      "title" : "Action Movie",
       "mediaUrl" : "http://slash_media/cokeapp/gravity.mp4"
     },
 {
       "movieId" : "slashnet2",
-      "posterUrl" : "http://cokeapp/poster/agents.png",
-      "thumbUrl" : "http://cokeapp/thumbs/agents.png",
-      "runtime" : "42min",
-      "synopsis" : "Marvel's Agents of S.H.I.E.L.D., or simply Agents of S.H.I.E.L.D., is an American television series created for ABC by Joss Whedon, Jed Whedon, and Maurissa Tancharoen, based on the Marvel Comics organization S.H.I.E.L.D..",
-      "title" : "Agents of Shield",
-      "mediaUrl" : "http://slash_media/cokeapp/agentsofshield.mp4"
+      "posterUrl" : "http://www.someurl.com/largePosterImage.png",
+      "thumbUrl" : "http://www.someurl.com/someThumbnail.png",
+      "runtime" : "138min",
+      "synopsis" : "This movie is awesome. It’s awesomely awesome. Where is the?",
+      "title" : "Action Movie",
+      "mediaUrl" : "http://www.someurl.com/somemovie.mp4"
     },
 {
       "movieId" : "slashnet3",
-      "posterUrl" : "http://cokeapp/poster/anchorman2.png",
-      "thumbUrl" : "http://cokeapp/thumbs/anchorman2.png",
+      "posterUrl" : "http://www.someurl.com/largePosterImage.png",
+      "thumbUrl" : "http://www.someurl.com/someThumbnail.png",
       "runtime" : "138min",
-      "synopsis" : "With the 70's behind him, San Diego's top rated newsman, Ron Burgundy, returns to the news desk. Also back for more are Ron's co-anchor and wife, Veronica Corningstone, weather man Brick Tamland, man on the street Brian Fantana and sports guy Champ Kind - All of whom won't make it easy to stay classy... while taking the nation's first 24-hour news channel by storm.",
+      "synopsis" : "This movie is awesome, it’s awesomely awesome.\n Awesome.",
       "title" : "Action Movie",
-      "mediaUrl" : "http://slash_media/cokeapp/anchorman2.mp4"
+      "mediaUrl" : "http://www.someurl.com/somemovie.mp4"
     }
   ]
 }
-
