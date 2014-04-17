@@ -18,6 +18,15 @@
       "synopsis" : "Marvel's Agents of S.H.I.E.L.D., or simply Agents of S.H.I.E.L.D., is an American television series created for ABC by Joss Whedon, Jed Whedon, and Maurissa Tancharoen, based on the Marvel Comics organization S.H.I.E.L.D..",
       "title" : "Agents of Shield",
       "mediaUrl" : "http://slash_media/cokeapp/agentsofshield.mp4"
+    },
+{
+      "movieId" : "slashnet3",
+      "posterUrl" : "http://cokeapp/poster/anchorman2.png",
+      "thumbUrl" : "http://cokeapp/thumbs/anchorman2.png",
+      "runtime" : "138min",
+      "synopsis" : "With the 70's behind him, San Diego's top rated newsman, Ron Burgundy, returns to the news desk. Also back for more are Ron's co-anchor and wife, Veronica Corningstone, weather man Brick Tamland, man on the street Brian Fantana and sports guy Champ Kind - All of whom won't make it easy to stay classy... while taking the nation's first 24-hour news channel by storm.",
+      "title" : "Action Movie",
+      "mediaUrl" : "http://slash_media/cokeapp/anchorman2.mp4"
     }
   ]
 }
