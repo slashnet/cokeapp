@@ -17,8 +17,8 @@
     },
     {
       "id" : "3",
-      "categoryTitle" : "Foreign",
-      "categoryUrl" : "foreign.json"
+      "categoryTitle" : "Animated",
+      "categoryUrl" : "animated.json"
     }
   ]
 }
